@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there I'm Jala Huseynova!
 
-<!--
-**JalaHuseynova/JalaHuseynova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Data Storyteller | Insight Hunter
 
-Here are some ideas to get you started:
+I have a deep passion for data, clean visuals, and anything that makes complex information a little more understandable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+* 📊 **Insight Driven:** I love turning raw data into meaningful, actionable insights.
+* 📈 **Analytics & Strategy:** Passionate about forecasting, trend analysis, and interactive dashboard design.
+* 🛠 **Tech Stack:** Experienced in **Python, SQL, Power BI, and Excel**.
+* 🎯 **Growth Mindset:** Focused on continuous learning 
+* 🤝 **Collaboration:** Always open to interesting data projects, collaborations, and new opportunities.
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](Your_Link_Here)
+* **Email:** [jhuseynova95@gmail.com]
