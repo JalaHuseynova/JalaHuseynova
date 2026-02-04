@@ -14,5 +14,5 @@ I have a deep passion for data, clean visuals, and anything that makes complex i
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](Your_Link_Here)
+* **LinkedIn:** [Jala Huseynova](www.linkedin.com/in/jala-huseynova)
 * **Email:** [jhuseynova95@gmail.com]
